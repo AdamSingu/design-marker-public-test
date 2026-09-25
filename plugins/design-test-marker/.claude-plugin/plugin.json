@@ -1,7 +1,7 @@
 {
   "name": "design-test-marker",
   "description": "Test artifact for the design skills marketplace. Use only when the user writes the exact word DESIGNMARKER. It has no other purpose.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": {
     "name": "Adam Kotala",
     "email": "adam.kotala@singu.com"

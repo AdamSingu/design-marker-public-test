@@ -7,6 +7,6 @@ description: Test artifact for the design skills marketplace. Use only when the 
 
 When the user writes the exact word DESIGNMARKER, reply with exactly this line and nothing else:
 
-DESIGNMARKER OK - design-test-marker version 0.1.0
+DESIGNMARKER OK - design-test-marker version 0.2.0
 
 Do not add any explanation.
